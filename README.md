@@ -49,7 +49,7 @@ In PowerQuery I took the following steps
   and department that indicated null.
 - Executed unpivot to restructure a table within the dataset
 - Renamed certain columns so that naming conventions are uniform across board.
-- Due to the nature of the dataset provided in other to be able to perform some analysis we need our different tables to be able to communicate so, I merged     queries. The merge allows for communication between both tables.
+- Due to the nature of the dataset provided in order to be able to perform some analysis we need our different tables to be able to communicate so, I merged     queries. The merge allows for communication between both tables.
 
 
 
