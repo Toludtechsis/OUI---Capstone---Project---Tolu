@@ -1,2 +1,2 @@
-# OUI---Capstone---Project---Tolu
-An HR Analysis on Gender Distribution within Palmoria Group
+# OUI-Capstone-Project-Tolu
+A capstone project for the OUI Bootcamp : Data Analysis Track.
