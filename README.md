@@ -51,6 +51,8 @@ In PowerQuery I took the following steps
 - Renamed certain columns so that naming conventions are uniform across board.
 - Due to the nature of the dataset provided in order to be able to perform some analysis we need our different tables to be able to communicate so, I merged     queries. The merge allows for communication between both tables.
 
+<img width="922" alt="Oui capstonePBQ" src="https://user-images.githubusercontent.com/17475689/194579460-07e5c78d-83a3-459d-bbe8-821898b5d92b.PNG">
+
 
 
 
