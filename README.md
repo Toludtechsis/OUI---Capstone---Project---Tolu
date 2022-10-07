@@ -58,7 +58,9 @@ First step was to acquire the dataset from the HR team then to begin the data cl
 
 
 ## Data Modeling
-For the data model, there wasn't a lot of tables to work with because I had merge both tables reflecting only the needed columns within the first table which I called Employee table. Due to that fact loading the second table called the bonus table into the data model will cause redundancy which was why it was excluded from the data model. 
+For the data model, there wasn't a lot of tables to work with because I had merge both tables reflecting only the needed columns within the first table which I called Employee table. Due to that fact loading the second table called the bonus table into the data model will cause redundancy which was why it was excluded from the data model.
+
+
 <img width="355" alt="oui - model" src="https://user-images.githubusercontent.com/17475689/194582867-708dc48e-943b-41c9-9ab9-bfab26cf6159.PNG"> 
 
 ## Data Analysis and Visualization
@@ -66,6 +68,7 @@ Within the data report's fields pane, I created different measures using data an
 
 ### Measures Created
 - Gender Classification Measures : To explore all the different gender classifications, Male , Female and Unspecified.
+<img width="655" alt="Measure 1" src="https://user-images.githubusercontent.com/17475689/194586820-a0ae861a-edea-4c1b-862d-f81221189e14.PNG">
 
   
   
