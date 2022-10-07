@@ -36,7 +36,7 @@ $90,000
 
 ## Data Cleaning and Transformation
 First step was to acquire the dataset from the HR team then to begin the data cleaning process I imported the dataset into PowerBI which is the choiced tool for this analysis. The process of importing the dataset is called GetData to get on with data cleaning I used PowerQuery as a transformation tool to clean the data. When I brought in the dataset, I had two tables to work with.
-In PowerQuery I took the following steps
+### In PowerQuery I took the following steps
 - First step in power query was to rename the tables to reflect the information I was working with.
 - I made sure each column has the right data type and changed the data types where data types didn't match for eachh column
 - Promoted first rows as headers
@@ -48,16 +48,26 @@ In PowerQuery I took the following steps
 - Replaced values where genders were not stated with a generic name "Unspecified"
 - Removed values not useful for analysis based on an insider hint this include, employees without salary because they are no longer staff, 
   and department that indicated null.
+- Created new Columns
 - Executed unpivot to restructure a table within the dataset
 - Renamed certain columns so that naming conventions are uniform across board.
 - Due to the nature of the dataset provided in order to be able to perform some analysis we need our different tables to be able to communicate so, I merged     queries. The merge allows for communication between both tables.
+- Created a new table called myMeasure to house measures to be created in my data model
 
 <img width="922" alt="Oui capstonePBQ" src="https://user-images.githubusercontent.com/17475689/194579460-07e5c78d-83a3-459d-bbe8-821898b5d92b.PNG">
 
 
 ## Data Modeling
 For the data model, there wasn't a lot of tables to work with because I had merge both tables reflecting only the needed columns within the first table which I called Employee table. Due to that fact loading the second table called the bonus table into the data model will cause redundancy which was why it was excluded from the data model. 
+<img width="355" alt="oui - model" src="https://user-images.githubusercontent.com/17475689/194582867-708dc48e-943b-41c9-9ab9-bfab26cf6159.PNG"> 
 
-## Data Visualization and Analysis
+## Data Analysis and Visualization
+Within the data report's fields pane, I created different measures using data analysis expressions (DAX) formulas. These measures will go on to become quite useful in my analysis. Measures allows us ask how data questions and derive answers, they are useful for the analysis of data.
+
+### Measures Created
+- Gender Classification Measures : To explore all the different gender classifications, Male , Female and Unspecified.
+
+  
+  
 ## Insights
 ## Recommendations and Conclusions
