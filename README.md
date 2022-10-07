@@ -70,6 +70,8 @@ Within the data report's fields pane, I created different measures using data an
 - Gender Classification Measures : To explore all the different gender classifications, Male , Female and Unspecified.
 <img width="655" alt="Measure 1" src="https://user-images.githubusercontent.com/17475689/194586820-a0ae861a-edea-4c1b-862d-f81221189e14.PNG">
 
+<img width="657" alt="gender measure 2" src="https://user-images.githubusercontent.com/17475689/194588464-f04cb1cf-e323-45ac-bda6-1e3b32127bb9.PNG">
+
   
   
 ## Insights
