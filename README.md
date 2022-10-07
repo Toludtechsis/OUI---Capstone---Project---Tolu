@@ -35,8 +35,9 @@ $90,000
 - Total amount to be paid out per region and company-wide
 
 ## Data Cleaning and Transformation
-First step was to acquire the dataset from the HR team then to begin the data cleaning process I imported the dataset into PowerBI which is the choiced tool for this analysis. The process of importing the dataset is called GetData to get on with data cleaning I used PowerQuery as a transformation tool to clean the data.
+First step was to acquire the dataset from the HR team then to begin the data cleaning process I imported the dataset into PowerBI which is the choiced tool for this analysis. The process of importing the dataset is called GetData to get on with data cleaning I used PowerQuery as a transformation tool to clean the data. When I brought in the dataset, I had two tables to work with.
 In PowerQuery I took the following steps
+- First step in power query was to rename the tables to reflect the information I was working with.
 - I made sure each column has the right data type and changed the data types where data types didn't match for eachh column
 - Promoted first rows as headers
 - Filtered for blanks and removed null values 
@@ -54,9 +55,9 @@ In PowerQuery I took the following steps
 <img width="922" alt="Oui capstonePBQ" src="https://user-images.githubusercontent.com/17475689/194579460-07e5c78d-83a3-459d-bbe8-821898b5d92b.PNG">
 
 
-
-
 ## Data Modeling
+For the data model, there wasn't a lot of tables to work with because I had merge both tables reflecting only the needed columns within the first table which I called Employee table. Due to that fact loading the second table called the bonus table into the data model will cause redundancy which was why it was excluded from the data model. 
+
 ## Data Visualization and Analysis
 ## Insights
 ## Recommendations and Conclusions
