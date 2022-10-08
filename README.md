@@ -91,9 +91,14 @@ Within the data report's fields pane, I created different measures using data an
 
 ### Visualization
 
-- Gender Distribution 
+- Gender Distribution in Palmoria Group
+
+
 
 #### Gender distribution across regions
+
+
+#### Gender distribution across departments
 
 
 - 
