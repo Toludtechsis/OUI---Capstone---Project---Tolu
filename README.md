@@ -90,7 +90,6 @@ Within the data report's fields pane, I created different measures using data an
 
 
 
-
 - 
 ## Insights
 ## Recommendations and Conclusions
