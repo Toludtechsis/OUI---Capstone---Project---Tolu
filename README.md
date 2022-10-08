@@ -118,9 +118,14 @@ In comparison to the other gender, there were more Females in the highest rated 
 
 
 - Minimum Employee Payout Requirement
-- 
--Salary Pay Structure in Departments
+The analysis reveals that only 35% of the company's employees is paid the required minimum amount, which is $90000 for all manufacturing enterprises.
+
+
+
+- Salary Pay Structure in Departments
 Accounting, Human Resources, and marketing all showed glaring gender pay disparities, with Unspecified getting more money, while the Business Administration and Product Management departments were more evenly split between the genders across the board.
+
+<img width="189" alt="gendar salary dep" src="https://user-images.githubusercontent.com/17475689/194717615-7b90f136-a42c-48b3-b0ac-93e33acb9bc9.PNG">
 
 
 - 
