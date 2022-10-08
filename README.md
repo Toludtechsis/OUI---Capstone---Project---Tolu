@@ -157,6 +157,6 @@ Accounting, Human Resources, and marketing all showed glaring gender pay dispari
 
 -	The Management should take necessary steps required to meet the minimum employee pay threshold.
 
-[Home Page]
+[Home Page] 
 [Report Page]
 [Report Page 2]
