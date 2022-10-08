@@ -158,5 +158,5 @@ Accounting, Human Resources, and marketing all showed glaring gender pay dispari
 -	The Management should take necessary steps required to meet the minimum employee pay threshold.
 
 [Home Page] (https://github.com/Toludtechsis/OUI---Capstone---Project---Tolu/blob/2e4f045e187b0ce5ab8b1ea8e59dc2ba4f7e3aac/Home.PNG)
-[Report Page]
-[Report Page 2]
+[Report Page] (https://github.com/Toludtechsis/OUI---Capstone---Project---Tolu/blob/2e4f045e187b0ce5ab8b1ea8e59dc2ba4f7e3aac/Home.PNG
+[Report Page 2] (https://github.com/Toludtechsis/OUI---Capstone---Project---Tolu/blob/ef5db325f271ca2b9f5a92bec08e95fb6f61b611/page22.PNG)
