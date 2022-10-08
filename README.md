@@ -120,6 +120,7 @@ In comparison to the other gender, there were more Females in the highest rated 
 - Minimum Employee Payout Requirement
 The analysis reveals that only 35% of the company's employees is paid the required minimum amount, which is $90000 for all manufacturing enterprises.
 
+<img width="340" alt="min Pay" src="https://user-images.githubusercontent.com/17475689/194717759-138d34bf-e6f9-4a3e-8722-3907deb26175.PNG">
 
 
 - Salary Pay Structure in Departments
@@ -127,7 +128,35 @@ Accounting, Human Resources, and marketing all showed glaring gender pay dispari
 
 <img width="189" alt="gendar salary dep" src="https://user-images.githubusercontent.com/17475689/194717615-7b90f136-a42c-48b3-b0ac-93e33acb9bc9.PNG">
 
-
-- 
 ## Insights
+
+-	Gender distribution gap across the organization has a relatively close, with Male employees only 3% more than the Females employees and 4% of the work force either gender neutral or unspecified.
+
+-	Female employees have a generally higher performance rating compared to their Male counterparts.
+
+-	Male employees across the company have an higher pay with an average salary earning of  $75k compared to the $72k of their Female counterparts and employees with unspecified gender having the highest salary average of $78k.
+
+-	Male employees across all the three regions earn more than their Female counterparts with Kaduna having the widest pay gap within the organization.
+
+-	7 departments of the 12 departments has more Male employees while 5 departments have more Female employees.
+
+-	Palmoria Group does not meet the minimum employee pay requirement set for manufacturing companies and only has a 35% compliance rate.
+
+-	A total of 26 employees earn between 0k - 20k, 103 employees earn up to 30k, 105 employees earn 40k, 96 employees earn 50k, 99 employees earn 60k, 117 employees earn 70k, 108 employees earn 80k, 90 employees earn 90k, 105 employees earn up to 100k and 97 employees earn up to 120k
+
+
 ## Recommendations and Conclusions
+
+-	The Management should set up structures to even out gender distribution across regions. 
+
+- Departments with wide difference in gender distribution should be investigated to ascertain the reason and steps taken towards a more balanced distribution in those departments.
+
+-	The gap in gender pay should be addressed especially where 	qualifications and duties are the same.
+
+-	High rating employees should be properly acknowledged for their hard works. "Happy employees, makes a thriving organization",
+
+-	The Management should take necessary steps required to meet the minimum employee pay threshold.
+
+Home Page
+Report Page
+Report Page 2
