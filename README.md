@@ -76,6 +76,10 @@ Within the data report's fields pane, I created different measures using data an
 
 
 <img width="651" alt="gender measure 3" src="https://user-images.githubusercontent.com/17475689/194589038-f2af38bb-c233-4740-a879-64b1bbd727e3.PNG">
+
+- Total Aggregation Measures : These measures were used to calculate the summation of the Bonus, Salary and Take-home columns.
+
+
 - 
 ## Insights
 ## Recommendations and Conclusions
