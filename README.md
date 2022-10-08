@@ -93,6 +93,7 @@ Within the data report's fields pane, I created different measures using data an
 
 - Gender Distribution in Palmoria Group
 
+<img width="268" alt="company gender1" src="https://user-images.githubusercontent.com/17475689/194713236-0511e743-4fcb-4033-90c9-53b3408e8e59.PNG">
 
 
 #### Gender distribution across regions
