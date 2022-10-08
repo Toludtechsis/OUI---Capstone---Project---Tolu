@@ -114,6 +114,8 @@ Palmoria Group has 12 departments in operation and within the  departments, 7 de
 - Gender distribution by employee ratings
 In comparison to the other gender, there were more Females in the highest rated categories. The analysis revealed that more employees fall into the average group, which is dominated by men, as well as the two lowest rated categorie and 46% of the total 39 employees who are not classified by gender are rated average.
 
+<img width="246" alt="emp rating" src="https://user-images.githubusercontent.com/17475689/194717495-00643ddb-a34a-4972-b230-5ca91f9578b5.PNG">
+
 
 - Minimum Employee Payout Requirement
 - 
