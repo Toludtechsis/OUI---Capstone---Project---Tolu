@@ -87,7 +87,13 @@ Within the data report's fields pane, I created different measures using data an
 
 - Minimum Employee Payout Requirement Measure: This measure was use to calculate the level of company compliance with the minimum pay requirement.
 
+<img width="554" alt="MEpayout" src="https://user-images.githubusercontent.com/17475689/194712421-4f877db3-6376-4cc9-966e-9d4cfec4e45f.PNG">
 
+### Visualization
+
+- Gender Distribution 
+
+#### Gender distribution across regions
 
 
 - 
