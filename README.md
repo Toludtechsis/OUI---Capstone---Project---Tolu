@@ -83,6 +83,10 @@ Within the data report's fields pane, I created different measures using data an
 
 <img width="656" alt="salary" src="https://user-images.githubusercontent.com/17475689/194708528-5a629d59-66b0-4fca-95b7-69af7d79293b.PNG">
 
+<img width="657" alt="takehome" src="https://user-images.githubusercontent.com/17475689/194708625-fc2874b2-b15d-42d0-b910-ee86479c5266.PNG">
+
+- Minimum Employee Payout Requirement Measure: This measure was use to calculate the level of company compliance with the minimum pay requirement.
+
 
 
 
