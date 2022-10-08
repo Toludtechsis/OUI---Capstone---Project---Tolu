@@ -98,6 +98,7 @@ Within the data report's fields pane, I created different measures using data an
 
 #### Gender distribution across regions
 
+<img width="146" alt="regons gender" src="https://user-images.githubusercontent.com/17475689/194713327-0dd47031-b718-4e00-bd96-6fddad6981cb.PNG">
 
 #### Gender distribution across departments
 
