@@ -79,6 +79,9 @@ Within the data report's fields pane, I created different measures using data an
 
 - Total Aggregation Measures : These measures were used to calculate the summation of the Bonus, Salary and Take-home columns.
 
+<img width="655" alt="total bonus" src="https://user-images.githubusercontent.com/17475689/194708445-0396749e-47fa-4996-a362-19be1a0a5499.PNG">
+
+
 
 - 
 ## Insights
