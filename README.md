@@ -92,16 +92,33 @@ Within the data report's fields pane, I created different measures using data an
 ### Visualization
 
 - Gender Distribution in Palmoria Group
+Palmoria Group boast of a total of 946 employees, out of which 465 are Males, 441 Females and 40 without gender specification.
 
 <img width="268" alt="company gender1" src="https://user-images.githubusercontent.com/17475689/194713236-0511e743-4fcb-4033-90c9-53b3408e8e59.PNG">
 
  
 Gender distribution across Regions and Departments
 
-<img width="146" alt="regons gender" src="https://user-images.githubusercontent.com/17475689/194713327-0dd47031-b718-4e00-bd96-6fddad6981cb.PNG">                 
+The gender distribution across the 3 regions indicates a higher number of male employees. 
+Kaduna with the most number of employees at 361 employees having 50.42% male employees, 45.71% female employees and 3.88% unspecified gender employees.
+Abuja has 335 employees having 47.46% male employees, 47.16% female employees and 5.37% unspecified gender employees.
+Lagos has 250 employees having 49.6% male employees, 47.2% female employees and 3.2% unspecified gender employees.
+
+<img width="146" alt="regons gender" src="https://user-images.githubusercontent.com/17475689/194713327-0dd47031-b718-4e00-bd96-6fddad6981cb.PNG">  
+
+Palmoria Group has 12 departments in operation and within the  departments, 7 departments have a high number of male employees and 5 deparments have more Female employees.
+
 
 <img width="178" alt="gnde department1" src="https://user-images.githubusercontent.com/17475689/194713429-8dac4a4b-0079-4919-8a53-e46b8d769421.PNG">
 
+- Gender distribution by employee ratings
+In comparison to the other gender, there were more Females in the highest rated categories. The analysis revealed that more employees fall into the average group, which is dominated by men, as well as the two lowest rated categorie and 46% of the total 39 employees who are not classified by gender are rated average.
+
+
+- Minimum Employee Payout Requirement
+- 
+-Salary Pay Structure in Departments
+Accounting, Human Resources, and marketing all showed glaring gender pay disparities, with Unspecified getting more money, while the Business Administration and Product Management departments were more evenly split between the genders across the board.
 
 
 - 
