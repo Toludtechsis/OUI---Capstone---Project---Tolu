@@ -13,6 +13,8 @@ The goal of the project is to analyze the HR database of the manufacturing compa
 - Recommendations and Conclusions
 - Visuals
 ## Project Objective
+![pexels-edmond-dantès-8547344](https://user-images.githubusercontent.com/17475689/195562513-bc613733-71b4-4cc2-99dc-f4b1db79d05e.jpg)Image by  Edmond Dantes.
+
 In all three of its locations, the Nigerian manufacturing company The Palmoria Group is dealing with problems related to gender imbalance. The headline "Palmoria, the Manufacturing Patriarchy" appeared in the headlines recently, which is regrettable. Given their desire to expand their company to other countries, this doesn't bode well for the business owners. Cases like this can only worsen, exposing additional problems like the gender pay gap among other potential problems. In other to get ahead of any suprises the HR Analyst was charged with identifying potential issues in the gender distribution across the company that can lead to damaging consequences.
 ### Objectives
 -  What is the gender distribution in the organization? Distil to 
